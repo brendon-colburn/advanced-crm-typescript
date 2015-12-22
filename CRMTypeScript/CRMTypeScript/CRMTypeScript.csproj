@@ -21,6 +21,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="CommandLine.dll" />
+    <Content Include="Content\bootstrap.min.css" />
     <Content Include="JayData_readme.txt" />
     <Content Include="JaySvcUtil.exe" />
     <Content Include="Scripts\angular.min.js" />
